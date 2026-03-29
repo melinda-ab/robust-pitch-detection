@@ -1,0 +1,339 @@
+{
+    "metadata": {
+        "wiener_alpha": 1.0,
+        "sample_rate": 16000,
+        "cent_tolerance": 50.0
+    },
+    "results": {
+        "A2-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 9.569906311456679
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 7.934845192348654
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 0.7272727272727273,
+                    "mean_error": 330.7564225303243
+                },
+                "wiener": {
+                    "rpa": 0.6894409937888198,
+                    "mean_error": 381.58303674846223
+                }
+            }
+        },
+        "B3-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 5.481738955311452
+                },
+                "wiener": {
+                    "rpa": 0.8827160493827161,
+                    "mean_error": 17.840866098464165
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 7.862854544765815
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 5.898043324814423
+                }
+            }
+        },
+        "B4-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 10.168475994106327
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 10.504650945635763
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 7.915900427581597
+                },
+                "wiener": {
+                    "rpa": 0.8152173913043478,
+                    "mean_error": 18.484327320394563
+                }
+            }
+        },
+        "C3-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 10.57810059304097
+                },
+                "wiener": {
+                    "rpa": 0.9101796407185628,
+                    "mean_error": 78.08024446849421
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 0.8666666666666667,
+                    "mean_error": 166.8329994149445
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 13.266861339411465
+                }
+            }
+        },
+        "C4-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 8.479016478174852
+                },
+                "wiener": {
+                    "rpa": 0.8726114649681529,
+                    "mean_error": 15.232323365180841
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 0.9705882352941176,
+                    "mean_error": 13.210936774665647
+                },
+                "wiener": {
+                    "rpa": 0.8842975206611571,
+                    "mean_error": 15.730760654204607
+                }
+            }
+        },
+        "D3-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 0.99375,
+                    "mean_error": 12.137835448499397
+                },
+                "wiener": {
+                    "rpa": 0.8818181818181818,
+                    "mean_error": 154.9099592692431
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 10.439758240791024
+                },
+                "wiener": {
+                    "rpa": 0.8518518518518519,
+                    "mean_error": 191.58247626258364
+                }
+            }
+        },
+        "D5-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 5.005596689679308
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 5.518417202499806
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 5.005596689679312
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 5.740890807326346
+                }
+            }
+        },
+        "E2-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 5.860119611155795
+                },
+                "wiener": {
+                    "rpa": 0.6825396825396826,
+                    "mean_error": 382.9964127536742
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 8.971911114409771
+                },
+                "wiener": {
+                    "rpa": 0.6864864864864865,
+                    "mean_error": 388.99285399759765
+                }
+            }
+        },
+        "E4-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 6.587541387501296
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 8.113213523070172
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 6.546400492674898
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 5.552898808386489
+                }
+            }
+        },
+        "E5-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 5.009200692197495
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 5.009200692197493
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 6.743894569748504
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 6.583274766271558
+                }
+            }
+        },
+        "F5-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 5.070554110435489
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 6.525647478284288
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 6.415575608675355
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 6.1178909912307375
+                }
+            }
+        },
+        "G2-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 10.087655848357121
+                },
+                "wiener": {
+                    "rpa": 0.9608938547486033,
+                    "mean_error": 48.558935138334036
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 0.9740932642487047,
+                    "mean_error": 15.043600836488523
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 8.953963785642854
+                }
+            }
+        },
+        "G3-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 0.8405797101449275,
+                    "mean_error": 28.891485540240673
+                },
+                "wiener": {
+                    "rpa": 0.759493670886076,
+                    "mean_error": 32.824333404295174
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 0.7868852459016393,
+                    "mean_error": 252.5269920934376
+                },
+                "wiener": {
+                    "rpa": 0.7894736842105263,
+                    "mean_error": 35.89859257104458
+                }
+            }
+        },
+        "G4-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 9.6384210760233
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 5.435389765170664
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 10.544717685075515
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 9.973931592043526
+                }
+            }
+        },
+        "G5-1-spn": {
+            "standard_mic": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 7.265738236316268
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 6.140554142059999
+                }
+            },
+            "high_noise": {
+                "baseline": {
+                    "rpa": 1.0,
+                    "mean_error": 4.997785576156577
+                },
+                "wiener": {
+                    "rpa": 1.0,
+                    "mean_error": 7.219919221425087
+                }
+            }
+        }
+    }
+}
